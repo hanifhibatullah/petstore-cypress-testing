@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cypress": "^13.6.0"
+  },
+  "name": "cypress-e2e-testing",
+  "version": "1.0.0",
+  "description": "e2e-cypress-testing",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "hanif",
+  "license": "ISC"
+}
